@@ -2,8 +2,7 @@ import requests
 from lxml import html
 import json
 
-# "form_rcdl:tf_dlNO": "DL-0420110149646",
-# "form_rcdl:tf_dob_input": "09-02-1976"
+
 
 no_of_try = 0
 def getData():
